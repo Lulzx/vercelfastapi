@@ -1,2 +1,10 @@
+lxml
+requests
 fastapi
 uvicorn
+aiofiles
+audiobooker
+beautifulsoup4
+pydantic
+httpx
+dataclasses
